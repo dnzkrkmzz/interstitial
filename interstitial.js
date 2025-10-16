@@ -3,7 +3,7 @@
   const showDelay = 2000; // Sayfa açıldıktan sonra kaç ms sonra gösterilecek (2000 = 2 sn)
   const cooldownMinutes = 1; // Aynı kullanıcıya tekrar gösterilmeden önce geçmesi gereken süre (dakika)
   const adLink = "https://report.korkmazdeniz.com/";
-  const adImage = "https://via.placeholder.com/600x400?text=Interstitial+Ad";
+  const adImage = "https://dnzkrkmzz.github.io/interstitial/800x600.jpeg";
 
   // === COOKIE FONKSİYONLARI ===
   function setCookie(name, value, minutes) {
